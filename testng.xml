@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Admin/IdeaProjects/SeleniumProject_1/src/test/java/com/selenium/seleniumProgram/Selenium011.java">
+        <classes>
+            <class name="com.selenium.selenium16_march.Selenium011">
+                <methods>
+                    <include name="testVWOLoginPositive"/>
+                    <include name="testVWOLoginNegative"/>
+                    <include name="testVWOLoginNegative2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
