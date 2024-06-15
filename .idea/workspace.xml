@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba4d12a6-30e1-4ae4-b7e7-2181db6baeae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/LongestWordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/ReverseString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/RevreseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/AmazonCaptchaSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/Assginment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/Assignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/Assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/FrameAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/assignments/Selenium01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/ActionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/AutoSuggestive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/CalenderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/CheckBoxExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/CountOfAnchorTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/DynamicDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/E2eFlightSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/EcommerceWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Filters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/FindBrokenLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Flipcart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Locators2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/Locators3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/NewRelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/NewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/StaticDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/StreamClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/StreamClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/UpdatedDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/WindowActivities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/practicals/WindowHandles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgram/src/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Demo1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2g8dNmP3OZZ06kPxOdeLHS69cgX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActionClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Alert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AmazonCaptchaSolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assginment5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AutoSuggestive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalenderTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckBoxExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOfAnchorTag.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E2eFlightSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EcommerceWebsite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Filters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindBrokenLink.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Locators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Locators2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewRelativeLocators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selenium01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selenium2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamClass2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpdatedDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WebTables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WindowActivities.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WindowHandles.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.StreamClass.streamFilter.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewWindow">
+    <configuration name="Filters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practicals.Filters" />
+      <module name="SeleniumWithRahulShetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practicals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewRelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practicals.NewRelativeLocators" />
+      <module name="SeleniumWithRahulShetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practicals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practicals.NewWindow" />
+      <module name="SeleniumWithRahulShetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practicals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practicals.StreamClass2" />
+      <module name="SeleniumWithRahulShetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practicals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamClass.streamFilter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithRahulShetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practicals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.practicals" />
+      <option name="MAIN_CLASS_NAME" value="com.example.practicals.StreamClass" />
+      <option name="METHOD_NAME" value="streamFilter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewWindow" />
+        <item itemvalue="Application.NewRelativeLocators" />
+        <item itemvalue="Application.Filters" />
+        <item itemvalue="Application.StreamClass2" />
+        <item itemvalue="TestNG.StreamClass.streamFilter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba4d12a6-30e1-4ae4-b7e7-2181db6baeae" name="Changes" comment="" />
+      <created>1715083103803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715083103803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.SocketException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
